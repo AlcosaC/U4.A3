@@ -1,2 +1,2 @@
 Bon dia
-Que tal
+Que tal buenas tardes
